@@ -44,4 +44,3 @@ puts turn(board)
   turn += 1
 end
 end
-
