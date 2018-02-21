@@ -36,11 +36,7 @@ def turn(board)
 end
 
 # Define your play method below
-def play(board)
-# play is being called 9xs
-turn <= 9
-loop do
-puts turn(board)
-  turn += 1
-end
+def play(board) # board =  [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+# play is calling turn 9xs
+
 end
